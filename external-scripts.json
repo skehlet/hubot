@@ -1,5 +1,4 @@
 [
   "hubot-help",
-  "hubot-google-translate",
   "hubot-redis-brain"
 ]
